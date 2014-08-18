@@ -2,7 +2,10 @@
     "index.md",
     "the-good-engineer.html",
     [
-      "the-troubled-engineer.html",
-      "the-troubled-engineer-2.html"
-    ]
+        "the-troubled-engineer.html",
+        "the-troubled-engineer-2.html"
+    ],
+    "agile-solutions.html",
+    "agile-problems.html",
+    "the-need.html"
 ]
